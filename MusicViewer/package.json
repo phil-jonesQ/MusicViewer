@@ -1,0 +1,18 @@
+{
+  "name": "musicviewer",
+  "version": "1.0.0",
+  "description": "JS Application to take input, load and display a file, store each input on a drop down for quick access next time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Somewhere Over The Rainbow",
+    "file": "./db/MusicChords/somewhere.txt"
+  },
+  {
+    "id": 2,
+    "title": "I'm A Creep",
+    "file": "./db/MusicChords/creep.txt"
+  },
+  {
+    "id": 3,
+    "title": "True",
+    "file": "./db/MusicChords/true.txt"
+  },
+  {
+    "id": 4,
+    "title": "Accross The Universe",
+    "file": "./db/MusicChords/AccrossTheUnivers.txt"
+  },
+  {
+    "id": 5,
+    "title": "Angels",
+    "file": "./db/MusicChords/Angels.txt"
+  },
+  {
+    "id": 6,
+    "title": "Ashes to Ashes",
+    "file": "./db/MusicChords/AshesToAshes.txt"
+  },
+  {
+    "id": 7,
+    "title": "Band On The Run",
+    "file": "./db/MusicChords/BandOnTheRun.txt"
+  },
+  {
+    "id": 8,
+    "title": "Disco 2000",
+    "file": "./db/MusicChords/disco2k.txt"
+  },
+  {
+    "id": 9,
+    "title": "Don't Think Twice",
+    "file": "./db/MusicChords/Dontthinktwice.txt"
+  },
+  {
+    "id": 10,
+    "title": "Every Body's Changing",
+    "file": "./db/MusicChords/EverybodysChangingKeane.txt"
+  },
+  {
+    "id": 11,
+    "title": "Fairy Tale of NewYork",
+    "file": "./db/MusicChords/FairyTale2017.txt"
+  },
+  {
+    "id": 12,
+    "title": "True",
+    "file": "./db/MusicChords/Fallinginlove.txt"
+  },
+  {
+    "id": 13,
+    "title": "Falling In Love",
+    "file": "./db/MusicChords/GoldenSlumbers.txt"
+  },
+  {
+    "id": 14,
+    "title": "Hallelujah",
+    "file": "./db/MusicChords/Hallelujah.txt"
+  },
+  {
+    "id": 15,
+    "title": "Love Me Tomorrow",
+    "file": "./db/MusicChords/LoveMeTomorrow.txt"
+  },
+  {
+    "id": 16,
+    "title": "Mad World",
+    "file": "./db/MusicChords/MadWorld.txt"
+  },
+  {
+    "id": 17,
+    "title": "Moon River",
+    "file": "./db/MusicChords/Moonriver.txt"
+  },
+  {
+    "id": 18,
+    "title": "You'll Never Walk Alone",
+    "file": "./db/MusicChords/NeverWalk.txt"
+  },
+  {
+    "id": 19,
+    "title": "No Need To Argue",
+    "file": "./db/MusicChords/NoNeedToArgue.txt"
+  },
+  {
+    "id": 20,
+    "title": "Piano Man",
+    "file": "./db/MusicChords/PianoMan.txt"
+  },
+  {
+    "id": 21,
+    "title": "Sloop John B",
+    "file": "./db/MusicChords/SloopJohnB.txt"
+  },
+  {
+    "id": 22,
+    "title": "The Sound of Silence",
+    "file": "./db/MusicChords/SoundsofSilence.txt"
+  },
+  {
+    "id": 24,
+    "title": "Three Lions On Your Shirt",
+    "file": "./db/MusicChords/ThreeLions.txt"
+  },
+  {
+    "id": 25,
+    "title": "Unchained Melody",
+    "file": "./db/MusicChords/Unchained.txt"
+  },
+  {
+    "id": 26,
+    "title": "Viva La Vida",
+    "file": "./db/MusicChords/VivalaVida.txt"
+  },
+  {
+    "id": 27,
+    "title": "When You're Gone",
+    "file": "./db/MusicChords/WhenYoureGone.txt"
+  },
+  {
+    "id": 28,
+    "title": "Whiter Shade of Pale",
+    "file": "./db/MusicChords/WhiterShadeOfPale.txt"
+  }
+]

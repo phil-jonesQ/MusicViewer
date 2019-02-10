@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Test</title>
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+  </head>
+  <body>
+	
+      <fieldset>
+        <form action="/" method="post">
+          <input name="search" type="text" class="ghost-input" placeholder="Enter a Music File" required>
+          <input type="submit" class="ghost-button" value="Get Music">
+        </form>
+      </fieldset>
+
+	<% if(list !== null){ %>
+			<% for(var i=0; i < list.MusicFile.length; i++) { %>
+			<li><%= list.MusicFile[i].title %></li>
+			<% } %>
+		<% } %>
+
+	  <div class="container">
+			<% if(title !== null && file !== null){ %>
+					<p><%= title %></p>
+					<p><iframe src="<%= file %>" frameborder="3" height="720" 
+					width="650"></iframe></p>
+			<% } %>
+
+			<% if(error !== null){ %>
+					<p><%= error %></p>
+			<% } %>
+      </div>
+  </body>
+</html>
+
+
